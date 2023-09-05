@@ -1,0 +1,20 @@
+
+Name: prajwal
+
+Consumer_no.: 11111
+
+Phone_no.: 222222
+
+Price: $23445
+
+Product: fish
+
+Name: 
+
+Consumer_no.: 
+
+Phone_no.: 
+
+Price: $
+
+Product: 
