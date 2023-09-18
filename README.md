@@ -24,3 +24,4 @@ Email : Prajwal.singh@msds.christuniversity.in
 |4.|05-09-23|lab04|A Taste of Success: The Restaurant Management System|[Lab04](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/d24d887db061a03a1ac3254375363195e1fc9064/lab%2004.ipynb)|
 |5.|12-09-23|lab04|Write a program for collecting a string from the user and counting the number of vowels|[Lab05](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/d82d3f12a1281a5df962a41d1b687c9ce6d16c2e/lab%2005.ipynb)|
 6.|14/09/2023|lab06|Mix & Match Calculator|[Lab06](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/c137e6f41f4fb7a04a33a7dcebfb6a7ce873cd02/lab%2006/lab%2006.ipynb)|
+6.|14/09/2023|CAC1|Sorting of risk factor of cardiac arrest in the patient|[CAC1](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/977ed414f11b9c4db4730dc1bea83f639897616b/CAC.ipynb)|
