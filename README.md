@@ -26,3 +26,4 @@ Email : Prajwal.singh@msds.christuniversity.in
 6.|14/09/2023|lab06|Mix & Match Calculator|[Lab06](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/c137e6f41f4fb7a04a33a7dcebfb6a7ce873cd02/lab%2006/lab%2006.ipynb)|
 7.|14/09/2023|CAC1|Sorting of risk factor of cardiac arrest in the patient|[CAC1](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/977ed414f11b9c4db4730dc1bea83f639897616b/CAC.ipynb)|
 8.|21/09/2023|lab07|Expense Tracker Calculator|[Lab07](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/23f425abda76b58b18743b090f3250756acac25c/lab%2007.ipynb)|
+9.|03/10/2023|lab08|Implement a Stack class|[Lab08](
