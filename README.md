@@ -28,3 +28,4 @@ Email : Prajwal.singh@msds.christuniversity.in
 8.|21/09/2023|lab07|Expense Tracker Calculator|[Lab07](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/23f425abda76b58b18743b090f3250756acac25c/lab%2007.ipynb)|
 9.|03/10/2023|lab08|Implement a Stack class|[Lab08](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/blob/3ba6830cbf4e888b08572c95055123aa08209c71/lab%2008.ipynb)|
 10.|10/10/2023|lab09|Create a petstore class where you have the details of pets available and their details.|[Lab09](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/tree/f8b7d6058cc740988737ba7b6ea57f3ed91e7b55/lab%2009)|
+11.|25/10/2023|Cac2|Create a petstore class where you have the details of pets available and their details.|[Cac2](https://github.com/Prjwl777/MscDSB-MDS171-23122128-Prajwal/tree/f1f267228ddbb4b8df319096a19f69204e788b90/CAC2)|
